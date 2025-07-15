@@ -17,4 +17,4 @@ Responsiveness is a key requirement—interns should ensure that the chat applic
 Through this task, interns will not only learn about front-end frameworks but also explore the foundational concepts of client-server communication, event-driven programming, and real-time data handling. These are valuable skills applicable across various domains in web development, including social media platforms, collaborative tools, and customer service interfaces.
 
 Ultimately, Task 2 challenges interns to integrate technical skills with design thinking. A successful implementation should demonstrate not only technical correctness but also user-centric design and efficient handling of real-time events. By completing this task, participants will significantly enhance their front-end development portfolio and gain real-world insight into building dynamic web applications.
-output:
+output:<img width="1906" height="866" alt="Image" src="https://github.com/user-attachments/assets/b20c53b2-7325-422e-aa1b-4bb043793827" />
